@@ -6,7 +6,28 @@ namespace Investment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Investment");
+            double percent = 0.08;
+
+            Console.WriteLine("How much would you like to invest");
+            double invInput = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("How many years for that investment");
+            int yearInput = Convert.ToInt32(Console.ReadLine());
+
+            if (yearInput>=1 && yearInput<=30)
+            {
+
+            double gain = invInput;
+            for(int yearly=1; yearly<=yearInput; yearly++)
+            {
+                gain+=invInput*percent;
+                 Console.WriteLine(gain);
+
+            }
+
+            }
+
+        
         }
     }
 }

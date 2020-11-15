@@ -1,0 +1,13 @@
+C:\Users\Luis\C#\Investment\bin\Debug\netcoreapp3.1\Investment.exe
+C:\Users\Luis\C#\Investment\bin\Debug\netcoreapp3.1\Investment.deps.json
+C:\Users\Luis\C#\Investment\bin\Debug\netcoreapp3.1\Investment.runtimeconfig.json
+C:\Users\Luis\C#\Investment\bin\Debug\netcoreapp3.1\Investment.runtimeconfig.dev.json
+C:\Users\Luis\C#\Investment\bin\Debug\netcoreapp3.1\Investment.dll
+C:\Users\Luis\C#\Investment\bin\Debug\netcoreapp3.1\Investment.pdb
+C:\Users\Luis\C#\Investment\obj\Debug\netcoreapp3.1\Investment.csprojAssemblyReference.cache
+C:\Users\Luis\C#\Investment\obj\Debug\netcoreapp3.1\Investment.AssemblyInfoInputs.cache
+C:\Users\Luis\C#\Investment\obj\Debug\netcoreapp3.1\Investment.AssemblyInfo.cs
+C:\Users\Luis\C#\Investment\obj\Debug\netcoreapp3.1\Investment.csproj.CoreCompileInputs.cache
+C:\Users\Luis\C#\Investment\obj\Debug\netcoreapp3.1\Investment.dll
+C:\Users\Luis\C#\Investment\obj\Debug\netcoreapp3.1\Investment.pdb
+C:\Users\Luis\C#\Investment\obj\Debug\netcoreapp3.1\Investment.genruntimeconfig.cache
