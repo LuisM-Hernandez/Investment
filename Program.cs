@@ -20,14 +20,11 @@ namespace Investment
             double gain = invInput;
             for(int yearly=1; yearly<=yearInput; yearly++)
             {
-                gain+=invInput*percent;
-                 Console.WriteLine(gain);
-
+                gain+=gain*percent;
+                 Console.WriteLine("Year "+ yearly + " investment = $ " + (Math.Round(gain, 2)));
             }
 
             }
-
-        
         }
     }
 }
